@@ -1,0 +1,50 @@
+SEQN Respondent sequence number - 
+YEAR Year(s) when the observation was collected - 
+RIDAGEYR Age at Screening Adjudicated - Recode - '0 to 84'=Range of Values,'85'=>= 85 years of age,'.'=Missing
+RIAGENDR Gender - '1'=Male,'2'=Female,'.'=Missing
+SMQ020 Smoked at least 100 cigarettes in life - '1'=Yes,'2'=No,'.'=Missing
+SMD680 Used tobacco/nicotine last 5 days? - '1'=Yes,'2'=No,'.'=Missing
+SMD415 Total number of smokers in home - '1 to 2'=Range of Values,'3'=3 or More,'.'=Missing
+SMD415A Total # of cigarette smokers in home - '1 to 2'=Range of Values,'3'=3 or More,'.'=Missing
+PAD020 Walked or bicycled over past 30 days - '1'=Yes,'2'=No,'3'=Unable to do activity,'.'=Missing
+PAD200 Vigorous activity over past 30 days - '1'=Yes,'2'=No,'3'=Unable to do activity,'.'=Missing
+PAD320 Moderate activity over past 30 days - '1'=Yes,'2'=No,'3'=Unable to do activity,'.'=Missing
+DIQ010 Doctor told you have diabetes - '1'=Yes,'2'=No,'3'=Borderline,'.'=Missing
+BMXWT Weight (kg) - '3.1 to 193.3'=Range of Values,'.'=Missing
+BMXHT Standing Height (cm) - '81.8 to 201.3'=Range of Values,'.'=Missing
+BMXBMI Body Mass Index (kg/m**2) - '11.49 to 66.44'=Range of Values,'.'=Missing
+BMXWAIST Waist Circumference (cm) - '38.2 to 173.4'=Range of Values,'.'=Missing
+OHAROCDT Untreated Caries / Restorative needs - '1'=Yes,'.'=Missing
+OHAROCGP Periodontal needs - '1'=Yes,'.'=Missing
+OHARNF No significant needs - '1'=Yes,'.'=Missing
+ALQ120Q How often drink alcohol over past 12 mos - '0 to 365'=Range of Values,'.'=Missing
+BPQ020 Ever told you had high blood pressure - '1'=Yes,'2'=No,'.'=Missing
+DRXTTFAT Total fat (gm) - '0 to 428.23'=Range of Values,'.'=Missing
+DRXTSFAT Total saturated fatty acids (gm) - '0 to 201.61'=Range of Values,'.'=Missing
+BPXSY1 Systolic:  Blood pres (1st rdg) mm Hg - '74 to 242'=Range of Values,'.'=Missing
+BPXDI1 Diastolic:  Blood pres (1st rdg) mm Hg - '0 to 132'=Range of Values,'.'=Missing
+LBXSAL Albumin (g/dL) - '1.2 to 5.7'=Range of Values,'.'=Missing
+LBXSGL Glucose (mg/dL) - '41 to 571'=Range of Values,'.'=Missing
+LBXSCH Cholesterol, total (mg/dL) - '65 to 554'=Range of Values,'.'=Missing
+LBXSUA Uric acid (mg/dL) - '1.6 to 13.7'=Range of Values,'.'=Missing
+LBXSKSI Potassium (mmol/L) - '2.73 to 6.63'=Range of Values,'.'=Missing
+MCQ160C Ever told you had coronary heart disease - '1'=Yes,'2'=No,'.'=Missing
+MCQ080 Doctor ever said you were overweight - '1'=Yes,'2'=No,'.'=Missing
+OCQ180 Hours worked last week at all jobs - '1 to 105'=Range of Values,'.'=Missing
+OCQ380 Main reason did not work last week - '1'=Taking care of house or family,'2'=Going to school,'3'=Retired,'4'=Unable to work for health reasons,'5'=On layoff,'6'=Disabled,'7'=Other,'.'=Missing
+DBD100 How often add salt to food at table - '1'=Rarely,'2'=Occasionally,'3'=Very often,'.'=Missing
+OCD180 Hours worked last week at all jobs - '1 to 100'=Range of Values,'.'=Missing
+DR1TTFAT Total fat (gm) - '0 to 379.12'=Range of Values,'.'=Missing
+DR1TSFAT Total saturated fatty acids (gm) - '0 to 132.707'=Range of Values,'.'=Missing
+INDFMMPI Family monthly poverty level index - '0 to 4.97'=Range of Values,'5'=Value greater than or equal to 5.00,'.'=Missing
+PAD645 Minutes walk/bicycle for transportation - '10 to 600'=Range of Values,'.'=Missing
+PAD660 Minutes vigorous recreational activities - '10 to 990'=Range of Values,'.'=Missing
+PAD675 Minutes moderate recreational activities - '10 to 720'=Range of Values,'.'=Missing
+SMD460 # of people who live here smoke tobacco? - '0'=No one in houseold is a smoker,'1'=1 household member is a smoker,'2'=2 household members are smokers,'3'=3 or more household members are smokers,'.'=Missing
+SMDANY Used any tobacco product last 5 days? - '1'=Yes,'2'=No,'.'=Missing
+BMXHIP Hip Circumference (cm) - '66.6 to 179'=Range of Values,'.'=Missing
+ALQ121 Past 12 mo how often have alcohol drink - '0'=Never in the last year,'1'=Every day,'2'=Nearly every day,'3'=3 to 4 times a week,'4'=2 times a week,'5'=Once a week,'6'=2 to 3 times a month,'7'=Once a month,'8'=7 to 11 times in the last year,'9'=3 to 6 times in the last year,'10'=1 to 2 times in the last year,'.'=Missing
+MCQ366C Doctor told you to reduce salt in diet - '1'=Yes,'2'=No,'.'=Missing
+BPXOSY1 Systolic - 1st oscillometric reading - '52 to 219'=Range of Values,'.'=Missing
+BPXODI1 Diastolic - 1st oscillometric reading - '31 to 141'=Range of Values,'.'=Missing
+HYPERT Whether a subject had hypertension (BPS>140 or BPDI>90) - '0'=No,'1'=Yes
